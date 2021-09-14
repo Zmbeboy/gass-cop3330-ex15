@@ -14,7 +14,7 @@ public class App
         System.out.print("What is the password ");
         String guess = scan.nextLine();
 
-        String password = "wag1fam";
+        String password = "abc$123";
 
         if(guess.equals(password))
         {
